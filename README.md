@@ -4,7 +4,7 @@
 
 Road Safety AI helps drivers understand route safety before starting a trip. Instead of showing only distance and ETA, the app analyzes traffic congestion, weather, road hazards, road quality, time-of-day risk, and AI-generated precautions.
 
-deploayed at: https://road-safety-r52znq5pu-habeebshaik0921-8786s-projects.vercel.app/
+deployed at: https://road-safety-r52znq5pu-habeebshaik0921-8786s-projects.vercel.app/
 
 ---
 
